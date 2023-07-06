@@ -2,7 +2,9 @@
 
 ## This is a basic calculator app built using JavaScript, CSS, and HTML. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
-![Calculator](https://i.imgur.com/I7U7rfy.png)
+<img src="https://i.imgur.com/I7U7rfy.png" alt="Calculator" height="450" />
+
+
 
 
 ### Features
